@@ -284,8 +284,8 @@ wget -O addip "https://raw.githubusercontent.com/Scvpn/vvip/main/menu/addip.sh"
 wget -O tes "https://raw.githubusercontent.com/Scvpn/vvip/main/change-port/tes.sh"
 wget -O vmess "https://raw.githubusercontent.com/Scvpn/vvip/main/menu/vmess.sh"
 wget -O vless "https://raw.githubusercontent.com/Scvpn/vvip/main/menu/vless.sh"
-wget -O set-br "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/backup/set-br.sh"
-wget -O update "https://raw.githubusercontent.com/Scvpn/vvip/main/websocket-python/websocket."
+wget -O set-br "https://raw.githubusercontent.com/Scvpn/vvip/main/backup/set-br.sh"
+wget -O Websocket-phyton "https://raw.githubusercontent.com/Scvpn/vvip/main/Websocket-python/websocket."
 chmod +x tes
 chmod +x addip
 chmod +x add-host
