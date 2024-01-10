@@ -199,6 +199,7 @@ rm -rf restore
 rm -rf autoreboot
 rm -rf running
 rm -rf m-backup
+rm -rf websocket.
 clear
 # UPDATE RUN-UPDATE
 cd /usr/bin
@@ -284,6 +285,7 @@ wget -O tes "https://raw.githubusercontent.com/Scvpn/vvip/main/change-port/tes.s
 wget -O vmess "https://raw.githubusercontent.com/Scvpn/vvip/main/menu/vmess.sh"
 wget -O vless "https://raw.githubusercontent.com/Scvpn/vvip/main/menu/vless.sh"
 wget -O set-br "https://raw.githubusercontent.com/Tarap-Kuhing/v/main/backup/set-br.sh"
+wget -O update "https://raw.githubusercontent.com/Scvpn/vvip/main/websocket-python/websocket."
 chmod +x tes
 chmod +x addip
 chmod +x add-host
@@ -356,6 +358,7 @@ chmod +x m-backup
 chmod +x vmess
 chmod +x vless
 chmod +x set-br
+chmod +x websocket.
 clear
 echo -e ""
 echo -e "\e[0;32mDownloaded successfully!\e[0m"
