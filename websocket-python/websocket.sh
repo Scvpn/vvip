@@ -72,7 +72,7 @@ wget -q -O /usr/local/bin/ws-https https://raw.githubusercontent.com/Scvpn/vvip/
 wget -q -O /usr/local/bin/ws-http https://raw.githubusercontent.com/Scvpn/vvip/main/websocket-python/ws-http; chmod +x /usr/local/bin/ws-http
 
 # // PYTHON WEBSOCKET OVPN
-wget -q -O /usr/local/bin/ws-ovpn https://raw.githubusercontent.com/${GitUser}/multiport/main/websocket-python/ws-ovpn; chmod +x /usr/local/bin/ws-ovpn
+wget -q -O /usr/local/bin/ws-ovpn https://raw.githubusercontent.com/Scvpn/vvip/main/websocket-python/ws-ovpn; chmod +x /usr/local/bin/ws-ovpn
 
 # // RESTART && ENABLE SSHVPN WEBSOCKET TLS
 systemctl daemon-reload
